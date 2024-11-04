@@ -58,7 +58,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="tailwind" width="30"height="30"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="tailwind" width="40" height="25"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="tailwind" width="30" height="25"/>
   </a> 
 </p>
 
