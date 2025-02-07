@@ -4,7 +4,7 @@
 <h3 align="center">A passionate CST Student from Bangladesh</h3>
 <br/>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack, React Native**
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, NextJS, DSA/C++**
 
