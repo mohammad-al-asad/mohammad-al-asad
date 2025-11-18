@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, React Native**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, NextJS, DSA/C++**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, Prisma, NextJS, DSA/C++**
 
 - 📫 How to reach me **maasad11914@gmail.com**
 
