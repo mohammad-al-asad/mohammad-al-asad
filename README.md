@@ -27,7 +27,7 @@ I work across the **full stack**, emphasizing clean architecture, maintainabilit
 ### Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://logo.svgcdn.com/logos/expo-icon.png" />
+  <img src="https://logo.svgcdn.com/logos/expo-icon.png" width="48" height="48" alt="expo-icon" />
 </p>
 
 ### Backend
