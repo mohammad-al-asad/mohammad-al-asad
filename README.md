@@ -1,67 +1,101 @@
-<img src="/Banner.png"/>
+<img src="/Banner.png" alt="Banner" />
 
-<h1 align="center">Hi 👋, I'm Mohammmad Al Asad</h1>
-<h3 align="center">A passionate CST Student from Bangladesh</h3>
-<br/>
+<h1 align="center">Hi, I'm Mohammad Al Asad</h1>
+<h3 align="center">Full-Stack Developer (Web & Mobile) | CSE Student from Bangladesh</h3>
 
-- 🌱 I’m currently learning **MERN Stack, React Native**
+---
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, Prisma, NextJS, DSA/C++**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **maasad11914@gmail.com**
+I am a **Computer Science & Engineering (CSE) student** with a strong focus on building **scalable web and mobile applications**.  
+I work across the **full stack**, emphasizing clean architecture, maintainability, and real-world problem solving.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maasad11914" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maasad11914" height="30" width="40" />
-</a>
-<a href="https://fb.com/maasad11914" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maasad11914" height="30" width="40" />
-</a>
-<a href="https://instagram.com/maasad11914" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maasad11914" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mohammad-al-asad" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-al-asad" height="30" width="40" />
-</a>
+- 🔭 Building applications using **MERN Stack** and **React Native (Expo)**
+- 🌱 Expanding expertise in **NestJS, Prisma, and backend architecture**
+- 🧠 Regularly practicing **DSA using C++**
+- 🎯 Aspiring to become a **production-ready full-stack engineer**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend (Web)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,typescript"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="25"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/>
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>   
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextJS" width="30"height="30"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="tailwind" width="25" height="25"/>
-  </a>
-  <a href="https://leetcode.com/u/maasad11914/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" width="40" height="30"/>
-  </a>
+### Mobile Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React Native" />
+  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" width="40" height="40" title="Expo" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="40" height="40" title="Prisma ORM" />
+</p>
+
+### State Management & API
+<p>
+  <img src="https://logo.svgcdn.com/logos/react-query-icon.png" width="40" height="40" title="React Query" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" title="Redux / RTK Query" />
+</p>
+
+### Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,git" />
+</p>
+
+---
+
+## 📚 Currently Working With
+
+- **MERN Stack** (MongoDB, Express, React, Node.js)  
+- **NestJS** for scalable backend systems  
+- **React Native (Expo)** for cross-platform mobile apps  
+- **Prisma ORM** with modern databases  
+- **Next.js** for full-stack React applications  
+- **Redux / RTK Query & React Query** for state and API management  
+- **Data Structures & Algorithms (C++)**
+
+---
+
+## 🔗 Connect With Me
+
+<div align="left" style="display: flex; gap: 10px; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/mohammad-al-asad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  </a>
+
+  <a href="https://twitter.com/maasad11914" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
+         width="30" height="30"
+         style="filter: invert(1);" />
+  </a>
+
+  <a href="https://fb.com/maasad11914" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/maasad11914" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
+  </a>
+
+  <a href="https://leetcode.com/u/maasad11914/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50"/>
+  </a>
+
+</div>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **maasad11914@gmail.com**  
+- 📱 Phone: **+8801817404029**
+
+---
+
+> *If I die, I die — but if I live, I’ll strive to fulfill the purpose my Creator has destined for me.*
