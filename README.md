@@ -5,19 +5,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Computer Science & Engineering (CSE) student** with a strong focus on building **scalable web and mobile applications**.  
 I work across the **full stack**, emphasizing clean architecture, maintainability, and real-world problem solving.
 
-- 🔭 Building applications using **MERN Stack** and **React Native (Expo)**
-- 🌱 Expanding expertise in **NestJS, Prisma, and backend architecture**
-- 🧠 Regularly practicing **DSA using C++**
-- 🎯 Aspiring to become a **production-ready full-stack engineer**
+- Building applications using **MERN Stack** and **React Native (Expo)**
+- Expanding expertise in **NestJS, Prisma, and backend architecture**
+- Regularly practicing **DSA using C++**
+- Aspiring to become a **production-ready full-stack engineer**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend (Web)
 <p>
@@ -80,12 +80,8 @@ I work across the **full stack**, emphasizing clean architecture, maintainabilit
   </a>
 </p>
 
----
-
-## 📫 Contact
-
-- 📧 Email: **maasad11914@gmail.com**
-- 📱 Phone: **+8801817404029**
+- Email: **maasad11914@gmail.com**
+- Phone: **+8801817404029**
 
 ---
 
