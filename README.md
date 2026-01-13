@@ -80,9 +80,10 @@ I work across the **full stack**, emphasizing clean architecture, maintainabilit
   </a>
 </p>
 
+<p>
 - Email: **maasad11914@gmail.com**
 - Phone: **+8801817404029**
-
+</p>
 ---
 
 > *If I die, I die — but if I live, I’ll strive to fulfill the purpose my Creator has destined for me.*
