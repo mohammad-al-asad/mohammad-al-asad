@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://mohammad-al-asad.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" width="820" height="56" alt="Typing intro" />
+  <img src="./assets/tagline.svg" width="820" height="76" alt="Full-stack &amp; React Native developer · I ship apps people actually pay for · 4 apps live on the App Store &amp; Google Play · From first idea to the store listing" />
 </a>
 
 [![Download CV](https://img.shields.io/badge/Download_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white)](https://mohammad-al-asad.vercel.app)

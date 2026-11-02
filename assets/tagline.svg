@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="76" viewBox="0 0 820 76">
+  <style>
+    /* each line rises in, holds, then lifts out while the next one rises in */
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(14px) }
+      3.89% { opacity: 1; transform: none }
+      21.67% { opacity: 1; transform: none }
+      25.56% { opacity: 0; transform: translateY(-14px) }
+      100% { opacity: 0; transform: translateY(-14px) }
+    }
+    .l { opacity: 0; animation: cycle 18s cubic-bezier(.22,1,.36,1) infinite }
+    .l0 { opacity: 1 }
+    @media (prefers-reduced-motion: reduce) { .l { animation: none } .l0 { opacity: 1 } }
+  </style>
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="140" y1="0" x2="680" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#9333ea"/></linearGradient>
+  </defs>
+  <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="url(#g)" text-anchor="middle">
+    <text class="l l0" style="animation-delay:0.0s" x="410" y="40">Full-stack &amp; React Native developer</text>
+    <text class="l l1" style="animation-delay:4.5s" x="410" y="40">I ship apps people actually pay for</text>
+    <text class="l l2" style="animation-delay:9.0s" x="410" y="40">4 apps live on the App Store &amp; Google Play</text>
+    <text class="l l3" style="animation-delay:13.5s" x="410" y="40">From first idea to the store listing</text>
+  </g>
+</svg>
