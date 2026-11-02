@@ -1,9 +1,9 @@
-<img src="./assets/banner-v3.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
+<img src="./assets/banner-v4.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
 
 <div align="center">
 
 <a href="https://mohammad-al-asad.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
 </a>
 
 [![Download CV](https://img.shields.io/badge/Download_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white)](https://mohammad-al-asad.vercel.app)
@@ -11,17 +11,18 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maasad11914)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maasad11914/)
 
-
-
 </div>
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.jpg" width="90%" alt="Body Axis on Google Play" /></a>
+<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.webp" width="90%" alt="Body Axis on Google Play" /></a>
 <h4>Body Axis</h4>
 <sub>Full-stack fitness app · solo build</sub><br /><br />
 <a href="https://apps.apple.com/us/app/body-axis-mobility-strength/id6761671211"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
@@ -31,7 +32,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Fitco-Calorie-Tracker"><img src="./assets/fitco.jpg" width="90%" alt="Fitco" /></a>
+<a href="https://github.com/mohammad-al-asad/Fitco-Calorie-Tracker"><img src="./assets/fitco.webp" width="90%" alt="Fitco" /></a>
 <h4>Fitco</h4>
 <sub>Arabic & English calorie tracker</sub><br /><br />
 <a href="https://apps.apple.com/us/app/%D9%81%D8%AA%D9%83%D9%88-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA/id6755593832"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
@@ -41,7 +42,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/MA3-Ride-Sharing-App"><img src="./assets/ma3.jpg" width="90%" alt="MA3" /></a>
+<a href="https://github.com/mohammad-al-asad/MA3-Ride-Sharing-App"><img src="./assets/ma3.webp" width="90%" alt="MA3" /></a>
 <h4>MA3</h4>
 <sub>Ride sharing · live maps · payments</sub><br /><br />
 <a href="https://apps.apple.com/us/app/ma3/id6762648482"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
@@ -53,7 +54,7 @@
 <tr>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.jpg" width="90%" alt="BTC Trade" /></a>
+<a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.webp" width="90%" alt="BTC Trade" /></a>
 <h4>BTC Trade</h4>
 <sub>Bitcoin spot & futures trading</sub><br /><br />
 <a href="https://github.com/mohammad-al-asad/btc-trade"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
@@ -61,7 +62,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="./assets/commerce.jpg" width="90%" alt="The Commerce" /></a>
+<a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="./assets/commerce.webp" width="90%" alt="The Commerce" /></a>
 <h4>The Commerce</h4>
 <sub>Full-stack e-commerce store</sub><br /><br />
 <a href="https://the-commerce-ten.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
@@ -70,7 +71,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.jpg" width="90%" alt="Express Chat App" /></a>
+<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.webp" width="90%" alt="Express Chat App" /></a>
 <h4>Express Chat App</h4>
 <sub>Real-time chat rooms with Socket.IO</sub><br /><br />
 <a href="https://express-chat-app-pi.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
@@ -80,7 +81,10 @@
 </tr>
 </table>
 
-## Education & achievements
+<h2 align="center">Education & achievements</h2>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 
 <table>
 <tr>
@@ -109,7 +113,10 @@
 </tr>
 </table>
 
-## 🧰 Toolbox
+<h2 align="center">🧰 Toolbox</h2>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 
 <table>
 <tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" /> <img src="./assets/expo.svg" height="40" alt="Expo" /></td></tr>
@@ -128,6 +135,8 @@
 <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
 </td></tr>
 </table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
