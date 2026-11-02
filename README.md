@@ -13,7 +13,10 @@
 
 </div>
 
-<img src="./assets/h-projects.svg" width="100%" alt="🚀 Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark.svg" />
+  <img src="./assets/h-projects-light.svg" width="100%" alt="🚀 Projects" />
+</picture>
 
 
 <table>
@@ -55,6 +58,7 @@
 <a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.webp" width="90%" alt="BTC Trade" /></a>
 <h4>BTC Trade</h4>
 <sub>Bitcoin spot & futures trading</sub><br /><br />
+<a href="https://btc-trade-beta.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 <a href="https://github.com/mohammad-al-asad/btc-trade"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 <br /><br />
 </td>
@@ -79,7 +83,10 @@
 </tr>
 </table>
 
-<img src="./assets/h-education.svg" width="100%" alt="Education & achievements" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-education-dark.svg" />
+  <img src="./assets/h-education-light.svg" width="100%" alt="Education & achievements" />
+</picture>
 
 
 <table>
@@ -109,7 +116,10 @@
 </tr>
 </table>
 
-<img src="./assets/h-toolbox.svg" width="100%" alt="🧰 Toolbox" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark.svg" />
+  <img src="./assets/h-toolbox-light.svg" width="100%" alt="🧰 Toolbox" />
+</picture>
 
 
 <table>
