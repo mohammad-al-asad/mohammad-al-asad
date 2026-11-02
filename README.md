@@ -11,6 +11,8 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maasad11914)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maasad11914/)
 
+[![Download CV](https://img.shields.io/badge/Download_CV-2563eb?style=for-the-badge&logo=readdotcv&logoColor=white)](https://mohammad-al-asad.vercel.app)
+
 <br />
 
 <img src="./assets/stats.svg" width="100%" alt="4 apps live on both stores · $7.5k+ revenue on Body Axis · 2,800+ customers · 4.8 star App Store rating" />
