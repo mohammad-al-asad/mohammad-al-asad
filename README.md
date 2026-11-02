@@ -11,9 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
 </a>
 
-<br />
-
-<img src="./assets/stats.svg" width="100%" alt="4 apps live on both stores · $7.5k+ revenue on Body Axis · 2,800+ customers · 4.8 star App Store rating" />
 
 </div>
 
