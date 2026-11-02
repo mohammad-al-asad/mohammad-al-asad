@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://mohammad-al-asad.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" width="820" height="56" alt="Typing intro" />
 </a>
 
 [![Download CV](https://img.shields.io/badge/Download_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white)](https://mohammad-al-asad.vercel.app)
@@ -13,9 +13,7 @@
 
 </div>
 
-<h3 align="center">🚀 Projects</h3>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<h3 align="center">🚀 Projects<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
 
 
 <table>
@@ -81,9 +79,7 @@
 </tr>
 </table>
 
-<h3 align="center">Education & achievements</h3>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<h3 align="center">Education & achievements<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
 
 
 <table>
@@ -113,9 +109,7 @@
 </tr>
 </table>
 
-<h3 align="center">🧰 Toolbox</h3>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<h3 align="center">🧰 Toolbox<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
 
 
 <table>
