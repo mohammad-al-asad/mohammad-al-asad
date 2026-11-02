@@ -118,13 +118,12 @@ Live football scores, lineups, stats, and news from 25 competitions, with over-t
 
 ## 🔁 How I ship
 
-```text
-idea ─▶ design ─▶ build (app · API · dashboard) ─▶ CI/CD ─▶ App Store & Google Play
-                                                              │
-                     ◀── fix · improve · release safely ◀─────┘  real users
-```
+| 1. Plan | 2. Build | 3. Ship | 4. Maintain |
+| :---: | :---: | :---: | :---: |
+| 💡 | 🛠️ | 🚀 | 🔁 |
+| Turn the idea into screens and a clear scope | Mobile app, API, and admin dashboard | Automated CI/CD to the App Store, Google Play, and the cloud | Fix what real users hit and release updates without breaking older versions |
 
-I don't stop at launch. I track down bugs real users hit, fix them, and release new versions without breaking anyone still on an older one.
+Launch is where the real work starts: I keep the apps I build running smoothly for real users.
 
 ---
 
