@@ -22,60 +22,74 @@
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.jpg" alt="Body Axis" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.jpg" width="90%" alt="Body Axis" /></a>
 <h4>Body Axis</h4>
 <sub>Full-stack fitness app · solo build</sub><br /><br />
 <a href="https://apps.apple.com/us/app/body-axis-mobility-strength/id6761671211"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.jointhebodyinstitute.bodyaxis"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
 <a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/Fitco-Calorie-Tracker"><img src="./assets/fitco.jpg" alt="Fitco" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/Fitco-Calorie-Tracker"><img src="./assets/fitco.jpg" width="90%" alt="Fitco" /></a>
 <h4>Fitco</h4>
 <sub>Arabic & English calorie tracker</sub><br /><br />
 <a href="https://apps.apple.com/us/app/%D9%81%D8%AA%D9%83%D9%88-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA/id6755593832"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.fitcoksa"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
 <a href="https://github.com/mohammad-al-asad/Fitco-Calorie-Tracker"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/MA3-Ride-Sharing-App"><img src="./assets/ma3.jpg" alt="MA3" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/MA3-Ride-Sharing-App"><img src="./assets/ma3.jpg" width="90%" alt="MA3" /></a>
 <h4>MA3</h4>
 <sub>Ride sharing · live maps · payments</sub><br /><br />
 <a href="https://apps.apple.com/us/app/ma3/id6762648482"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=co.ma3llc"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
 <a href="https://github.com/mohammad-al-asad/MA3-Ride-Sharing-App"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/Golazo-Live"><img src="./assets/golazo.jpg" alt="Golazo Live" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/Golazo-Live"><img src="./assets/golazo.jpg" width="90%" alt="Golazo Live" /></a>
 <h4>Golazo Live</h4>
 <sub>Live football scores & news</sub><br /><br />
 <a href="https://apps.apple.com/us/app/golazo-live/id6753016723"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.golazo.live"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
 <a href="https://github.com/mohammad-al-asad/Golazo-Live"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.jpg" alt="BTC Trade" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.jpg" width="90%" alt="BTC Trade" /></a>
 <h4>BTC Trade</h4>
 <sub>Bitcoin spot & futures trading</sub><br /><br />
 <a href="https://github.com/mohammad-al-asad/btc-trade"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="./assets/commerce.jpg" alt="The Commerce" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="./assets/commerce.jpg" width="90%" alt="The Commerce" /></a>
 <h4>The Commerce</h4>
 <sub>Full-stack e-commerce store</sub><br /><br />
 <a href="https://the-commerce-ten.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 <a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 </tr>
 <tr>
 <td colspan="3" align="center">
-<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.jpg" width="33%" alt="Express Chat App" /></a>
+<br />
+<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.jpg" width="30%" alt="Express Chat App" /></a>
 <h4>Express Chat App</h4>
 <sub>Real-time chat rooms with Socket.IO</sub><br /><br />
 <a href="https://express-chat-app-pi.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
 <a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<br /><br />
 </td>
 </tr>
 </table>
