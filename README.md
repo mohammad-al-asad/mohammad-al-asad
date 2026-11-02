@@ -13,7 +13,7 @@
 
 </div>
 
-<h2 align="center">🚀 Projects</h2>
+<h3 align="center">🚀 Projects</h3>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -81,7 +81,7 @@
 </tr>
 </table>
 
-<h2 align="center">Education & achievements</h2>
+<h3 align="center">Education & achievements</h3>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -113,7 +113,7 @@
 </tr>
 </table>
 
-<h2 align="center">🧰 Toolbox</h2>
+<h3 align="center">🧰 Toolbox</h3>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
