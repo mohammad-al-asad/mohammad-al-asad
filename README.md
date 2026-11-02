@@ -2,14 +2,15 @@
 
 <div align="center">
 
+<a href="https://mohammad-al-asad.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
+</a>
+
 [![Download CV](https://img.shields.io/badge/Download_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white)](https://mohammad-al-asad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-asad)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maasad11914)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maasad11914/)
 
-<a href="https://mohammad-al-asad.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
-</a>
 
 
 </div>
