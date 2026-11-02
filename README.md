@@ -82,27 +82,23 @@
 
 ## 🧰 Toolbox
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react" height="48" alt="React Native" />
-<img src="./assets/expo.svg" height="48" alt="Expo" />
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,redux,vite" height="48" alt="Frontend" />
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,postgres,prisma,firebase" height="48" alt="Backend and data" />
-<br />
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel,git,linux,cpp,java" height="48" alt="Cloud, DevOps and more" />
-
-<br /><br />
-
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleads&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS-4630EB?style=flat-square&logo=expo&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-
-</div>
+<table>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" /> <img src="./assets/expo.svg" height="40" alt="Expo" /></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,redux,vite" height="40" alt="Next.js, TypeScript, Tailwind, Redux, Vite" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python" height="40" alt="Node.js, Express, NestJS, FastAPI, Python" /></td></tr>
+<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" height="40" alt="MongoDB, PostgreSQL, Prisma, Firebase" /></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel" height="40" alt="AWS, Docker, Nginx, GitHub Actions, Vercel" /></td></tr>
+<tr><td><b>Also</b></td><td><img src="https://skillicons.dev/icons?i=git,linux,cpp,java" height="40" alt="Git, Linux, C++, Java" /></td></tr>
+<tr><td><b>In production</b></td><td>
+<img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white" alt="RevenueCat" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleads&logoColor=white" alt="AdMob" />
+<img src="https://img.shields.io/badge/EAS-4630EB?style=flat-square&logo=expo&logoColor=white" alt="EAS" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
+</td></tr>
+</table>
 
 ## 🔁 How I ship
 
