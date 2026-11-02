@@ -82,7 +82,7 @@
 </tr>
 </table>
 
-## 📜 Education & achievements
+## Education & achievements
 
 <table>
 <tr>
