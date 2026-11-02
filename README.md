@@ -23,7 +23,7 @@
 <tr>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.jpg" width="90%" alt="Body Axis" /></a>
+<a href="https://github.com/mohammad-al-asad/Body-Axis"><img src="./assets/body-axis.jpg" width="90%" alt="Body Axis on Google Play" /></a>
 <h4>Body Axis</h4>
 <sub>Full-stack fitness app · solo build</sub><br /><br />
 <a href="https://apps.apple.com/us/app/body-axis-mobility-strength/id6761671211"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
