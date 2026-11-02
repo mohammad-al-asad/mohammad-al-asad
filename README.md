@@ -82,6 +82,35 @@
 </tr>
 </table>
 
+## 🎓 Education & achievements
+
+<table>
+<tr>
+<th width="50%">🎓 Education</th>
+<th width="50%">🏆 Achievements</th>
+</tr>
+<tr>
+<td valign="top">
+<br />
+<b><a href="https://mohammad-al-asad.vercel.app/educations/9181606f-29d4-484d-873e-756566e29231">Diploma in Engineering, Computer Science & Technology</a></b><br />
+<sub>Feni Govt. Polytechnic Institute · 2021–2026 · CGPA 3.61</sub>
+<br /><br />
+<b><a href="https://mohammad-al-asad.vercel.app/educations/376c99cb-cbfa-49fe-b94f-7b33e3618d7c">Secondary School Certificate (SSC)</a></b><br />
+<sub>Fazilpur High School · 2016–2021 · GPA 4.78</sub>
+<br /><br />
+</td>
+<td valign="top">
+<br />
+<b><a href="https://mohammad-al-asad.vercel.app/achievements/77e6e594-61d1-489a-97ef-13e7101e410c">IELTS Academic: Band 6.5 (CEFR B2)</a></b><br />
+<sub>British Council, IDP IELTS & Cambridge English · 2026</sub>
+<br /><br />
+<b><a href="https://mohammad-al-asad.vercel.app/achievements/444761ee-6665-468f-964f-c407b691d7a0">🥈 2nd place, Skills Competition 2025</a></b><br />
+<sub>Computer Department · Feni Polytechnic Institute, ASSET Project · 2025</sub>
+<br /><br />
+</td>
+</tr>
+</table>
+
 ## 🧰 Toolbox
 
 <table>
