@@ -55,16 +55,6 @@
 <tr>
 <td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Golazo-Live"><img src="./assets/golazo.jpg" width="90%" alt="Golazo Live" /></a>
-<h4>Golazo Live</h4>
-<sub>Live football scores & news</sub><br /><br />
-<a href="https://apps.apple.com/us/app/golazo-live/id6753016723"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.golazo.live"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
-<a href="https://github.com/mohammad-al-asad/Golazo-Live"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-<br /><br />
-</td>
-<td width="33%" valign="top" align="center">
-<br />
 <a href="https://github.com/mohammad-al-asad/btc-trade"><img src="./assets/btc-trade.jpg" width="90%" alt="BTC Trade" /></a>
 <h4>BTC Trade</h4>
 <sub>Bitcoin spot & futures trading</sub><br /><br />
@@ -80,11 +70,9 @@
 <a href="https://github.com/mohammad-al-asad/The-Commerce"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 <br /><br />
 </td>
-</tr>
-<tr>
-<td colspan="3" align="center">
+<td width="33%" valign="top" align="center">
 <br />
-<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.jpg" width="30%" alt="Express Chat App" /></a>
+<a href="https://github.com/mohammad-al-asad/Express-Chat-App"><img src="./assets/chat.jpg" width="90%" alt="Express Chat App" /></a>
 <h4>Express Chat App</h4>
 <sub>Real-time chat rooms with Socket.IO</sub><br /><br />
 <a href="https://express-chat-app-pi.vercel.app"><img src="https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
