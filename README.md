@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maasad11914/)
 
 <a href="https://mohammad-al-asad.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=56&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
 </a>
 
 <br />
