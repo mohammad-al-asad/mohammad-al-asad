@@ -13,7 +13,7 @@
 
 </div>
 
-<br />
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark-v2.svg" />
@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-<br />
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-education-dark-v2.svg" />
@@ -120,7 +120,7 @@
 </tr>
 </table>
 
-<br />
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark-v2.svg" />
