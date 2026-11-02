@@ -13,7 +13,7 @@
 
 </div>
 
-<h3 align="center">🚀 Projects<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
+<img src="./assets/h-projects.svg" width="100%" alt="🚀 Projects" />
 
 
 <table>
@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-<h3 align="center">Education & achievements<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
+<img src="./assets/h-education.svg" width="100%" alt="Education & achievements" />
 
 
 <table>
@@ -109,7 +109,7 @@
 </tr>
 </table>
 
-<h3 align="center">🧰 Toolbox<br /><img src="./assets/divider.svg" width="100%" alt="" /></h3>
+<img src="./assets/h-toolbox.svg" width="100%" alt="🧰 Toolbox" />
 
 
 <table>
