@@ -1,4 +1,4 @@
-<img src="./Banner.png" width="100%" alt="Mohammad Al Asad, Software Engineer" />
+<img src="./Banner.png" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
 
 <div align="center">
 
@@ -91,12 +91,11 @@ Live football scores, lineups, stats, and news from 25 competitions, with over-t
 </tr>
 </table>
 
-### 🌐 On the web
+### 🖥️ On the web
 
 | Project | What it is |
 | --- | --- |
-| [**The Portfolio**](https://github.com/mohammad-al-asad/The-Portfolio) | My portfolio with its own admin panel: Next.js 15, Prisma, MongoDB, instant cache refresh · [live](https://mohammad-al-asad.vercel.app) |
-| [**Certificate Generator**](https://github.com/mohammad-al-asad/Certificate-Generator) | Generate, share, and download certificates with QR-code access · [live](https://certificate-generator-gamma-blond.vercel.app) |
+| [**BTC Trade**](https://github.com/mohammad-al-asad/btc-trade) | Bitcoin trading platform: live Binance prices over WebSocket, candlestick charts, spot and leveraged futures trading, and deposits and withdrawals with admin approval · Next.js 16, Prisma, PostgreSQL |
 | [**The Commerce**](https://github.com/mohammad-al-asad/The-Commerce) | Full-stack e-commerce store with cart, checkout, and order management · [live](https://the-commerce-ten.vercel.app) |
 | [**Express Chat App**](https://github.com/mohammad-al-asad/Express-Chat-App) | Real-time chat rooms with Socket.IO, JWT sessions, and file uploads · [live](https://express-chat-app-pi.vercel.app) |
 
@@ -105,10 +104,10 @@ Live football scores, lineups, stats, and news from 25 competitions, with over-t
 ## 🧰 Toolbox
 
 <table>
-<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="Mobile" /> <img src="https://logo.svgcdn.com/logos/expo-icon.png" height="40" alt="Expo" /></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="Mobile" /> <img src="./assets/expo.svg" height="40" alt="Expo" /></td></tr>
 <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,redux,vite" height="40" alt="Frontend" /></td></tr>
 <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python" height="40" alt="Backend" /></td></tr>
-<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase" height="40" alt="Data" /></td></tr>
+<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase" height="40" alt="Data" /></td></tr>
 <tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel" height="40" alt="Cloud and DevOps" /></td></tr>
 <tr><td><b>Also</b></td><td><img src="https://skillicons.dev/icons?i=cpp,java,git,linux" height="40" alt="Other" /></td></tr>
 </table>
