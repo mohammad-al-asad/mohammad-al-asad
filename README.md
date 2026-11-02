@@ -13,6 +13,8 @@
 
 </div>
 
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark-v2.svg" />
   <img src="./assets/h-projects-light-v2.svg" width="100%" alt="💼 Projects" />
@@ -83,6 +85,8 @@
 </tr>
 </table>
 
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-education-dark-v2.svg" />
   <img src="./assets/h-education-light-v2.svg" width="100%" alt="📚 Education & achievements" />
@@ -116,6 +120,8 @@
 </tr>
 </table>
 
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark-v2.svg" />
   <img src="./assets/h-toolbox-light-v2.svg" width="100%" alt="🧰 Toolbox" />
@@ -139,6 +145,8 @@
 <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
 </td></tr>
 </table>
+
+<br />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
