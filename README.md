@@ -1,4 +1,4 @@
-<img src="./assets/banner-v2.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
+<img src="./assets/banner-v3.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
 
 <div align="center">
 
