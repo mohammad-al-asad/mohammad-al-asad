@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full-stack+%26+React+Native+developer;I+ship+apps+people+actually+pay+for;4+apps+live+on+the+App+Store+%26+Google+Play;From+first+idea+to+the+store+listing" alt="Typing intro" />
 </a>
 
-[![Download CV](https://img.shields.io/badge/Download_CV-2563eb?style=for-the-badge&logo=readdotcv&logoColor=white)](https://mohammad-al-asad.vercel.app)
+[![Download CV](https://img.shields.io/badge/Download_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white)](https://mohammad-al-asad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-asad)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maasad11914)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maasad11914/)
@@ -82,7 +82,7 @@
 </tr>
 </table>
 
-## 🎓 Education & achievements
+## 📜 Education & achievements
 
 <table>
 <tr>
@@ -130,10 +130,6 @@
 <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
 </td></tr>
 </table>
-
-## 🔁 How I ship
-
-<img src="./assets/ship.svg" width="100%" alt="1 Plan, 2 Build, 3 Ship, 4 Maintain, then back to Build with every release" />
 
 <div align="center">
 
