@@ -1,4 +1,4 @@
-<img src="./assets/banner-v4.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
+<img src="./assets/banner-v5.svg" width="100%" alt="Mohammad Al Asad, full-stack and React Native developer" />
 
 <div align="center">
 
@@ -14,8 +14,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark.svg" />
-  <img src="./assets/h-projects-light.svg" width="100%" alt="🚀 Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark-v2.svg" />
+  <img src="./assets/h-projects-light-v2.svg" width="100%" alt="💼 Projects" />
 </picture>
 
 
@@ -84,8 +84,8 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-education-dark.svg" />
-  <img src="./assets/h-education-light.svg" width="100%" alt="Education & achievements" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-education-dark-v2.svg" />
+  <img src="./assets/h-education-light-v2.svg" width="100%" alt="📚 Education & achievements" />
 </picture>
 
 
@@ -117,8 +117,8 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark.svg" />
-  <img src="./assets/h-toolbox-light.svg" width="100%" alt="🧰 Toolbox" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-toolbox-dark-v2.svg" />
+  <img src="./assets/h-toolbox-light-v2.svg" width="100%" alt="🧰 Toolbox" />
 </picture>
 
 
